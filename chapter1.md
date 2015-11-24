@@ -1,3 +1,3 @@
-# The History of User Interfaces
+# A conceptual overview of the web
 
-According to w3.org, the initial purposes of the web was to share academic journals between researchers in a remote fashion. In other words, the web was built to enable information to be shared between people independent of their geographical location. 
+According to w3.org, the initial purposes of the web was to share academic journals between researchers in a remote fashion. In other words, the web was built to enable information to be shared between people independent of their geographical location. Tim Berners-Lee developed a protocol to handle this use case; this protocol was called HTTP. This enabled two remote computers to connect with each other via the underlying technologies which power HTTP, namely TCP and IP. TCP (Transmission Control Protocol) handled the actual transmission of data between computers and IP (Internet Protocol) provided a distinct address which the data could be sent.  
