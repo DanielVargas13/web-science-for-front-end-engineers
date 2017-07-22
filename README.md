@@ -1,5 +1,7 @@
 # Computer Science for Front End Engineers
 
+---
+
 * Background
 
 * Browser Science
@@ -34,7 +36,7 @@
 
     * JavaScript Engine
 
-    * Networking 
+    * Networking
 
     * Security
 
