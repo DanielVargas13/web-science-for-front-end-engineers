@@ -22,7 +22,7 @@ In today's client-side application era, there are even more complexities offload
 
 This book is therefore aimed at upskilling and informing developers about computer science that relates to the client-side, which although strongly linked to general Computer Science, differs in its application.
 
-1. [https://insights.stackoverflow.com/survey/2017\#technology-frameworks-libraries-and-other-technologies](https://insights.stackoverflow.com/survey/2017#technology-frameworks-libraries-and-other-technologies)
+
 
 
 
