@@ -20,5 +20,5 @@ In today's client-side application era, there are even more complexities offload
 
 > The term 'Front-End Engineer' will perhaps be more descriptive of what client-side developers primary responsibilities will be in the present and future.
 
-This book is therefore aimed at upskilling and informing developers about computer science that relates to the client-side, which although strongly linked to general Computer Science, is more relevant for Front-End Engineers..
+This book is therefore aimed at upskillng and informing developers about computer science that relates to the client-side, which although strongly linked to general Computer Science, is more relevant for Front-End Engineers.
 
