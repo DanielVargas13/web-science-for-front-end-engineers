@@ -2,6 +2,8 @@
 
 ---
 
+It's time for a go-to book on Front-End Engineering, including the algorithms that our frameworks and libraries uses, as well as the history and science behind the web. **Contributions and topics are welcomed**. 
+
 * Background
 
 * Browser Science
